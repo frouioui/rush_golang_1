@@ -2,7 +2,8 @@
 
 ### Install:
 https://golang.org/dl/ \
-pour tester votre install : `go version` 
+pour tester votre install : `go version`
+puis deplacez ce repository dans `$HOME/go/src/`
 
 ### Help:
 https://gobyexample.com/
