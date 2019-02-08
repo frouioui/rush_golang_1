@@ -1,7 +1,8 @@
 # RUSH GOLANG
 
 ### Install:
-https://golang.org/dl/
+https://golang.org/dl/ \
+pour tester votre install : `go version` 
 
 ### Help:
 https://gobyexample.com/
