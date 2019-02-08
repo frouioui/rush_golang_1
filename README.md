@@ -1,7 +1,7 @@
 # RUSH GOLANG
 
 ### Install:
-https://golang.org/dl/ \
+https://golang.org/dl/ et une fois le .tar.gz download : https://golang.org/doc/install#install \
 pour tester votre install : `go version`
 puis deplacez ce repository dans `$HOME/go/src/`
 
